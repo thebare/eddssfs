@@ -1,11 +1,6 @@
 import javax.swing.*;
 
-/**
- * This class is an example of main window with an icon
- * 
- * @author PG 
- * @version 2013-02-04
- */
+
 public class MyFirstWindowWithIcon
 {
     public static void main ()
